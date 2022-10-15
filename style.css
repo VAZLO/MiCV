@@ -1,0 +1,98 @@
+html, body { 
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 100%; 
+  margin: 0px;
+  padding: 0px;
+  box-sizing: inherit;
+}
+
+*:before, *:after {
+  box-sizing: border-box;
+}
+
+#contenedor {
+  display:flex;
+  
+}
+
+#principal {
+  width: auto;
+  background-color: rgb(220, 220, 220);
+  border-radius: 16px;
+  padding: 26px;
+  margin: 8px;
+}
+
+#principal p{
+  text-align: center;
+}
+
+#principal strong{
+  color: rgb(199, 0, 57);
+}
+
+.image-profile img{
+  width: 200 px;
+  height: 200px;
+  border-radius: 999px;
+}
+
+#personal{
+  width: 400px;
+  margin: 10px;
+}
+
+#contacto {
+width: 400px;
+margin-top: 80px;
+}
+
+#mail{
+  width: 25px;
+  height: 15px;
+}
+
+#whatsapp{
+  width: 20px;
+  height: 20px;
+}
+
+#maps{
+  width: 25px;
+  height: 15px;
+}
+
+#nivel {
+  width: 400px;
+  margin-top: 80px;
+}
+
+#secundario {
+  width: auto;
+  padding: 26px;
+
+}
+
+#secundario strong {
+  color: rgb(199, 0, 57);
+}
+
+#referencias{
+  text-align: center;
+}
+
+#nombre h2{
+  color: rgb(199, 0, 57);
+  margin-top: 100px;
+}
+
+#habilidades {
+  margin-top: 60px;
+}
+
+footer{
+  text-align: auto;
+}
+
+
+
